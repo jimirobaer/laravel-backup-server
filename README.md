@@ -2,6 +2,9 @@
 ![](https://github.com/user-attachments/assets/72af1cb5-fa3c-47aa-98ad-fd2057b4e34a)
 ![laravel_backup_server_banner_3](https://github.com/user-attachments/assets/f9c23ac3-29e2-45c9-a034-482396a259bd)
 
+![laravel_backup_server_banner_5](https://github.com/user-attachments/assets/62793697-c3d5-4632-aaba-fdbfab1ecd70)
+![laravel_backup_server_banner_4](https://github.com/user-attachments/assets/a3679ff9-b851-49fb-8a06-3d24f5e6898f)
+
 
 # Laravel Backup Server
 
