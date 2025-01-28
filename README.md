@@ -1,10 +1,5 @@
-![laravel_backup_server_banner_2](https://github.com/user-attachments/assets/ac21b06a-dd0d-43be-a36b-cc28aece9508)
-![](https://github.com/user-attachments/assets/72af1cb5-fa3c-47aa-98ad-fd2057b4e34a)
-![laravel_backup_server_banner_3](https://github.com/user-attachments/assets/f9c23ac3-29e2-45c9-a034-482396a259bd)
-
-![laravel_backup_server_banner_5](https://github.com/user-attachments/assets/62793697-c3d5-4632-aaba-fdbfab1ecd70)
-![laravel_backup_server_banner_4](https://github.com/user-attachments/assets/a3679ff9-b851-49fb-8a06-3d24f5e6898f)
-
+![laravel_backup_server_banner_7](https://github.com/user-attachments/assets/684001ba-9f92-447b-9763-7b5de5e1c2d9)
+![laravel_backup_server_banner_6](https://github.com/user-attachments/assets/e9c7e4ab-4b59-4682-a56f-1b252caff9af)
 
 # Laravel Backup Server
 
