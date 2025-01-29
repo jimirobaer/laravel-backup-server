@@ -1,13 +1,22 @@
-![laravel_backup_server_banner_7](https://github.com/user-attachments/assets/684001ba-9f92-447b-9763-7b5de5e1c2d9)
-![laravel_backup_server_banner_6](https://github.com/user-attachments/assets/e9c7e4ab-4b59-4682-a56f-1b252caff9af)
+<div align="left">
+    <a href="https://nextjs.org">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e38848d5-7fa7-4fa0-9c04-e87f72521f10">
+          <img alt="Laravel Backup Server Logo" src="https://github.com/user-attachments/assets/4df30716-6958-4b5e-a080-76b484761b70" height="180">
+        </picture>
+    </a>
 
-# Laravel Backup Server
-
+<h1>Make sure all your servers are safe</h1>
+    
 [![Latest Stable Version](https://poser.pugx.org/spatie/laravel-backup/v/stable?format=flat-square)](https://packagist.org/packages/spatie/laravel-backup)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 ![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/spatie/laravel-backup/run-tests.yml?branch=main&label=Tests)
 [![Quality Score](https://img.shields.io/scrutinizer/g/spatie/laravel-backup.svg?style=flat-square)](https://scrutinizer-ci.com/g/spatie/laravel-backup)
 [![Total Downloads](https://img.shields.io/packagist/dt/spatie/laravel-backup.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-backup)
+    
+</div>
+
+## About this package
 
 This Laravel package [creates a backup of your application](https://spatie.be/docs/laravel-backup/v8/taking-backups/overview). The backup is a zip file that contains all files in the directories you specify along with a dump of your database. The backup can be stored on [any of the filesystems you have configured in Laravel](https://laravel.com/docs/filesystem).
 
