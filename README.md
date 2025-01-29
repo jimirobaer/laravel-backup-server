@@ -1,8 +1,8 @@
 <div align="left">
     <a href="https://nextjs.org">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e38848d5-7fa7-4fa0-9c04-e87f72521f10">
-          <img alt="Laravel Backup Server Logo" src="https://github.com/user-attachments/assets/4df30716-6958-4b5e-a080-76b484761b70" height="180">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/1dee9af4-37d1-4d5b-9cbe-1de098d114ee">
+          <img alt="Laravel Backup Server Logo" src="https://github.com/user-attachments/assets/af29ef24-ae62-4b18-838e-ff0173ab847d" height="180">
         </picture>
     </a>
 
