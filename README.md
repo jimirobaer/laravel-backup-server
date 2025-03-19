@@ -1,9 +1,9 @@
 <div align="left">
-    <a href="https://nextjs.org">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/1dee9af4-37d1-4d5b-9cbe-1de098d114ee">
-          <img alt="Laravel Backup Server Logo" src="https://github.com/user-attachments/assets/af29ef24-ae62-4b18-838e-ff0173ab847d" height="180">
-        </picture>
+    <a href="https://spatie.be/open-source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://spatie.be/packages/header/laravel-backup-server/html/dark.webp">
+        <img alt="Laravel Backup Server Logo" src="https://spatie.be/packages/header/laravel-backup-server/html/light.webp" height="190">
+      </picture>
     </a>
 
 <h1>Make sure all your servers are safe</h1>
